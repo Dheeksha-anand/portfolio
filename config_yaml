@@ -1,0 +1,19 @@
+# Set the theme
+theme: jekyll-theme-cayman
+
+# Site settings
+title: "DHEEKSHA"   # Title of your website
+description: "A showcase of my projects and skills." # Description for SEO
+baseurl: ""            # Leave blank for user.github.io or add "/repo-name"
+url: "https://dheeksha.github.io"  # Your GitHub Pages URL
+
+# Author details
+author:
+  name: Dheeksha Anand
+  email: dheekshaanand007.com
+  twitter: your_twitter_handle
+
+# Plugins (Optional)
+plugins:
+  - jekyll-feed  # Add RSS feed support
+  - jekyll-seo-tag  # Improve SEO
